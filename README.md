@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CevieC
+- 👋 Hi, I’m Cecila, CC in short 
 
 <!---
 CevieC/CevieC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
